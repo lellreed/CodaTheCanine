@@ -18,12 +18,12 @@ source-code: https://github.com/lellreed/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Psychiana Demo Collections
+title: Coda the Canine
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Materials related to Psychiana Demo Collections
+tagline: Images of the Coda, the Sardini of Mini Schnauzers
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This collection contains demo objects from the psychiana digital collection"
+description: "This collection contains images of Coda the Canine"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: L Reed
 
@@ -31,7 +31,7 @@ author: L Reed
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: psychiana
+metadata: CodaSheet
 
 ##########
 # GOOGLE SERVICES [optional!]
